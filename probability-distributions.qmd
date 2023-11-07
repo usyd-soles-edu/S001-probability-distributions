@@ -1,0 +1,18 @@
+---
+title: "Probability distributions"
+format: html
+---
+
+Biological systems are variable, and we consequently need statistical methods to cope with this variability in drawing valid inferences from our data. As a consequence of this variability, we can never say anything with *absolute* certainty based on biological data: there will always be some “doubt” due to **chance variation**. Not surprisingly, we need the tools and language of probability to assist us with quantifying our level of “doubt” when we make our conclusions.
+
+:::{.callout-note}
+We won't deal with probability theory to any great degree in this unit of study, but just outline some of the key HSC Maths concepts that we will build on.
+:::
+
+## Probability
+
+The probability of an event is the proportion of times that the event occurs in a large number of repeated trials. For example, if we toss a coin 100 times, we would expect to get 50 heads and 50 tails. The probability of getting a head is therefore 0.5.
+
+The equation for probability is:
+
+$$ P(E) = \frac{\text{number of times event E occurs}}{\text{total number of trials}} $$ where $P(E)$ is the probability of event $E$. Where $P(E) = 0$ the event is impossible, and where $P(E) = 1$ the event is certain (must happen).
