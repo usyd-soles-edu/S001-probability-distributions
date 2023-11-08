@@ -63,3 +63,30 @@ b. The probability of a person being left-handed is $0.13$. What is the probabil
 
 
 ### Non-Mutually Exclusive Events
+
+Non-mutually exclusive events have some overlap - more than one thing can happen at the same time.
+
+$$ P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and } B) $$
+
+This basically means that we need to subtract the probability of the overlap (the intersection) from the sum of the probabilities of the two events.
+
+:::{.callout-tip}
+## Exercise
+In a group of 20 people, 14 like to watch the news on television and 17 like to watch old movies. Everyone watches one or the other or both. If I choose one person at random, find the probability that the person likes watching:
+a. Both the news and the old movies.
+b. Only the news.
+:::
+
+### Product Rule
+
+When we do more than one thing (e.g. toss 2 coins, plant 5 seeds, choose 3 people, throw 2 dice) we multiply the probabilities together.
+
+$$ P(A \text{ and } B) = P(A) \times P(B) $$
+
+
+:::{.callout-tip}
+## Exercise
+
+a. A box contains 3 black pens, 4 red pens, and 2 green pens. If I draw out 2 pens at random, find the probability that they are both red.
+b. The probability of a seed germinating is 0.91. If I plant 5 seeds, find the probability that they all germinate. 
+:::
